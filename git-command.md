@@ -41,7 +41,7 @@ git add .
 git commit -m "这里是注释"
 
 # 将代码提交到线上
-git push
+git push origin <name>
 ```
 
 ### 拉取代码
